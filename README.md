@@ -1,12 +1,6 @@
 <h2 align="center">Hi 👋, I'm Yusuf Atalay</h2>
 <h4 align="center">I am a Computer Science & Engineering Bachelor Student at Marmara University</h4>
 
-- 🔭 I’m currently working on [FireCMS](https://github.com/yusufatalay/FireCMS)
-
-- 🌱 I’m currently learning **Go, React and Cloud**
-
-- 📫 How to reach me **yusuftahaatalay14@gmail.com**
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/yusuftahaatalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuftahaatalay" height="30" width="40" /></a>
