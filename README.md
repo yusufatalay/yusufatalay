@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Yusuf Atalay</h2>
-<h4 align="center">I am a Computer Science & Engineering Bachelor Student at Marmara University</h4>
+<h4 align="center">I am a Computer Scientist & Engineer</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
